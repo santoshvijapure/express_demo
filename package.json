@@ -1,0 +1,23 @@
+{
+  "name": "express_demo",
+  "version": "1.0.0",
+  "description": "this will create dynamic web page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santosh62/express_dmo.git"
+  },
+  "author": "santosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santosh62/express_dmo/issues"
+  },
+  "homepage": "https://github.com/santosh62/express_dmo#readme",
+  "dependencies": {
+    "cat-me": "^1.0.3",
+    "express": "^4.16.3"
+  }
+}
