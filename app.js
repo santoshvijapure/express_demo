@@ -44,6 +44,6 @@ app.get("*",function(req,res){
 });
 
 app.listen(3000,function() {
-   console.log("server starte");
+   console.log("SERVING AT PORT 3000");
     
 });
